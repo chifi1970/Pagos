@@ -1,0 +1,8 @@
+Module1 = 156, 156, 1379, 751, C
+modLvTimer = 208, 208, 1431, 803, C
+lvButtons_H = 73, 52, 1361, 647, C, 234, 234, 1457, 829, C
+SendKeys = 182, 182, 1405, 777, C
+SQL_goals = 130, 130, 1353, 725, C
+Forma_principal = 78, 78, 1301, 674, , 47, 50, 1270, 647, C
+Taskbar = 78, 78, 1308, 663, C
+BarraProgreso = 0, 0, 0, 0, C
